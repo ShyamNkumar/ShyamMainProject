@@ -8,7 +8,7 @@ System.out.println("Coimbatore");
 System.out.println("City");
 System.out.println("641019");
 System.out.println("641020");
-System.out.println("ShyamNagaraj");
+System.out.println("ShyamNagarajan");
 System.out.println("ShyamAmsaveni");
 
 }
